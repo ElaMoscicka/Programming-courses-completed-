@@ -1,5 +1,6 @@
 List of programming courses I've completed:
 
+•	JavaScript Testing (https://www.udacity.com/course/javascript-testing--ud549)  (September 2018)    
 •	Object-Oriented JavaScript (https://www.udacity.com/course/object-oriented-javascript--ud015) (July 2018)  
 •	Intro to Computer Science: https://www.udacity.com/course/intro-to-computer-science--cs101 (November 2017 - May 2018)  
 •	CSS Grid Course by Wes Bos: https://cssgrid.io/ (April 2018)  
