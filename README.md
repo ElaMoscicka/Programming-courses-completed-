@@ -1,5 +1,6 @@
 List of programming courses I've completed:
 
+* Materialize CSS From Scratch With 5 Projects (https://www.udemy.com/materialize-css-from-scratch-with-5-projects/) (December 2018- January 2019)  
 * Applied Accessibility (https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/) (November 2018)
 * JavaScript Testing (https://www.udacity.com/course/javascript-testing--ud549)  (September 2018)    
 * Object-Oriented JavaScript (https://www.udacity.com/course/object-oriented-javascript--ud015) (July 2018)  
