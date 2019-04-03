@@ -1,5 +1,6 @@
 List of programming courses I've completed:
 
+* Networking for Web Developers (https://eu.udacity.com/course/networking-for-web-developers--ud256) (March 2019)  
 * JavaScript Algorithms and Data Structures Masterclass (https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) (November 2018 - January 2019)  
 * Materialize CSS From Scratch With 5 Projects (https://www.udemy.com/materialize-css-from-scratch-with-5-projects/) (December 2018- January 2019)  
 * Applied Accessibility (https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/) (November 2018)
