@@ -1,5 +1,6 @@
 List of programming courses I've completed:
-
+  
+* Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) (March 2020)  
 * Networking for Web Developers (https://eu.udacity.com/course/networking-for-web-developers--ud256) (March 2019)  
 * JavaScript Algorithms and Data Structures Masterclass (https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) (November 2018 - January 2019)  
 * Materialize CSS From Scratch With 5 Projects (https://www.udemy.com/materialize-css-from-scratch-with-5-projects/) (December 2018- January 2019)  
